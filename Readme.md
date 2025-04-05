@@ -11,4 +11,4 @@ A web app that fetches and displays GitHub user profiles and their top-starred r
 2. Open `index.html` in a browser.  
 
 ## Demo  
-[Live Preview](https://your-username.github.io/github-profile-fetcher)  
+[[Live Preview](https://y-ogesh.github.io/github-profile-fetcher) 
